@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  color:rgb(65, 65, 65);
+}
+.styleborder {
+  border-radius: 5px;
+  background-color: rgb(128, 128, 128);
+}
+#table {
+  margin: auto;
+  width: 20rem;
+  height: 23.2rem;
+  text-align: center;
+}
+.row {
+  display: block;
+}
+div.column {
+  
+  margin-top: 4px;
+  display: inline-block;
+  font-size: 3rem;
+  width: 6rem;
+  border: 2px solid black;
+}
+#number {
+  margin-top: 5px;
+  background-color:gray;
+  border: 2px solid rgb(65, 65, 65);
+  width: 19rem;
+  height: 4rem;
+  font-size: 3rem;
+}
+.enter {
+  display: inline-block;
+  width: 12.5rem;
+  border: 2px solid rgb(65, 65, 65);
+  font-size: 3rem;
+}
